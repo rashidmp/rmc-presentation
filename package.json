@@ -1,0 +1,19 @@
+{
+  "name": "rmc-presentation",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.40.16",
+    "@slidev/theme-apple-basic": "^0.20.0",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*"
+  },
+  "devDependencies": {
+    "@iconify-json/ri": "^1.1.8",
+    "@iconify-json/vscode-icons": "^1.1.25"
+  }
+}
